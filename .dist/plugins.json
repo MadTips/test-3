@@ -2171,4 +2171,13 @@
 		"url": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.js/src/plugins/multi/komga.js",
 		"iconUrl": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/public/static/src/multi/komga/icon.png"
 	}
+	{
+		"id": "Bright-Novels",
+		"name": "Bright Novels",
+		"site": "url",
+		"lang": "English",
+		"version": "1.0.0",
+		"url": "https://raw.githubusercontent.com/MadTips/test-3/refs/heads/plugins/v3.0.0/.js/src/plugins/english/BrightNovels.js",
+		"iconUrl": "https://raw.githubusercontent.com/MadTips/test-3/17ec7531f82df7d9c358f539bbcdb048f3a7e849/BrightNovels.jpg"
+	}
 ]
