@@ -2173,8 +2173,8 @@
 	}
 	{
 		"id": "Bright-Novels",
-		"name": "Bright Novels",
-		"site": "url",
+		"name": "BrightNovels",
+		"site": "https://brightnovels.com",
 		"lang": "English",
 		"version": "1.0.0",
 		"url": "https://raw.githubusercontent.com/MadTips/test-3/refs/heads/plugins/v3.0.0/.js/src/plugins/english/BrightNovels.js",
